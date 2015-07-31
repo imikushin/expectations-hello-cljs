@@ -5,7 +5,7 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/clojurescript "0.0-2913"]]
 
-  :profiles {:dev {:dependencies [[expectations "2.1.0-SNAPSHOT"]]}}
+  :profiles {:dev {:dependencies [[expectations "2.1.1"]]}}
 
   :node-dependencies [[source-map-support "^0.2.9"]]
 
